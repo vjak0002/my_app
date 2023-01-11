@@ -5,3 +5,4 @@ git add .
 git commit -m "Update logo and url"
 git push -u origin update_logo
 gh pr create
+gh pr merge
